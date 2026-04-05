@@ -335,10 +335,10 @@ Policy PDF
 
 ## Environment Variables
 
-| Variable | Required | Default | Description |
-|----------|----------|---------|-------------|
-| `GEMINI_API_KEY` | No | — | Google Gemini API key for bill parsing |
-| `TESSERACT_PATH` | No | Auto-detected | Path to Tesseract OCR binary |
+| Variable |  Default | Description |
+|----------|---------|-------------|
+| `GEMINI_API_KEY` | — | Google Gemini API key for bill parsing |
+| `TESSERACT_PATH` | Auto-detected | Path to Tesseract OCR binary |
 
 ---
 
