@@ -1,0 +1,21 @@
+City Care Hospital
+            Patient Name: Mr. Rahul Sharma
+            Hospital Name: City Care Hospital
+
+            Admission Date: 15-06-2025
+            Discharge Date: 18-06-2025
+
+            Diagnosis: Appendicitis (Acute)
+            Procedure: Appendectomy (Laparoscopic)
+
+            Bill Details:
+            Room Charges (3 days x Rs. 4,000/day):  Rs. 12,000
+            Surgeon Fee:                              Rs. 25,000
+            Anesthesia:                               Rs. 8,000
+            Operation Theatre:                        Rs. 10,000
+            Medicines:                                Rs. 5,000
+            Diagnostic Tests:                         Rs. 3,000
+            Consultation Fee:                         Rs. 2,000
+
+            Total Amount: Rs. 65,000
+            Grand Total: Rs. 65,000

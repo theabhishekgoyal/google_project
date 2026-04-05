@@ -1,0 +1,51 @@
+══════════════════════════════════════════════════════════
+                      APOLLO HOSPITALS ENTERPRISE LIMITED
+                    Bannerghatta Road, Bengaluru - 560076
+                    NABH Accredited | JCI Accredited
+            ══════════════════════════════════════════════════════════
+
+            PATIENT DISCHARGE SUMMARY & FINAL BILL
+
+            Patient Name       : Mr. Suresh Reddy
+            UHID               : APL-2025-112890
+            Age / Gender       : 50 years / Male
+            Insurance Policy   : SHI/IND/2025/0056781
+
+            Date of Admission  : 18-Jan-2025, 07:30 AM
+            Date of Discharge  : 20-Jan-2025, 04:00 PM
+            Duration of Stay   : 2 days
+
+            Treating Doctor    : Dr. Mohan Rao, MS, FACS (General Surgery)
+            Department         : General Surgery
+
+            Diagnosis (ICD-10) : K40.90 — Unilateral Inguinal Hernia
+            Procedure          : Laparoscopic Inguinal Hernia Repair
+                                 (TEP - Totally Extra-Peritoneal Repair)
+                                 with Prolene Mesh Placement
+
+            Clinical Summary:
+            Patient presented with right inguinal swelling for 3 months.
+            Diagnosed with right indirect inguinal hernia. Elective
+            laparoscopic TEP repair done under general anesthesia.
+            Uneventful post-operative recovery.
+
+            ─────────────  ITEMIZED BILL  ──────────────────────────
+
+            Description                              Amount (Rs.)
+            ──────────────────────────────────────────────────────
+            Room Charges - Twin Sharing
+              (2 days × Rs. 3,500/day)                    7,000
+            Surgeon Fee                                  30,000
+            Anaesthesia Charges                          10,000
+            Operation Theatre Charges                    12,000
+            Prolene Mesh Implant                          8,000
+            Medicines & Consumables                       4,500
+            Diagnostic Tests (Pre-Op: CBC, ECG, CXR)      2,800
+            Nursing Charges                                1,500
+            ──────────────────────────────────────────────────────
+            NET TOTAL PAYABLE                        Rs. 75,800
+            ══════════════════════════════════════════════════════
+
+            Note: Admission date 18-Jan-2025 falls within 30 days
+            of policy start date (01-Jan-2025). Also hernia has
+            a specific waiting period of 2 years.

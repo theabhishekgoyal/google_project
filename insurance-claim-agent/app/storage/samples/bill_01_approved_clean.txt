@@ -1,0 +1,50 @@
+══════════════════════════════════════════════════════════
+                          CITY CARE MULTI-SPECIALITY HOSPITAL
+                  #128, 100 Feet Road, Indiranagar, Bengaluru - 560038
+                  NABH Accredited | Reg No: KA/BLR/2019/HC-3421
+            ══════════════════════════════════════════════════════════
+
+            FINAL HOSPITAL BILL / DISCHARGE SUMMARY
+
+            Patient Name       : Mr. Rahul Sharma
+            UHID               : CCH-2025-089341
+            Age / Gender       : 35 years / Male
+            Contact            : +91 98765 43210
+
+            Date of Admission  : 15-Jun-2025, 09:30 AM
+            Date of Discharge  : 18-Jun-2025, 11:00 AM
+            Duration of Stay   : 3 days
+
+            Treating Doctor    : Dr. Vinay Kulkarni, MS (General Surgery)
+            Department         : General Surgery
+
+            Diagnosis (ICD-10) : K35.80 — Acute Appendicitis, unspecified
+            Procedure (ICD-10) : 0DTJ4ZZ — Laparoscopic Appendectomy
+
+            ─────────────  ITEMIZED BILL  ──────────────────────────
+
+            Description                              Amount (Rs.)
+            ──────────────────────────────────────────────────────
+            Room Charges - Deluxe (3 days × Rs.4,000)    12,000
+            Surgeon Fee                                   25,000
+            Anaesthesia Charges                            8,000
+            Operation Theatre Charges                     10,000
+            Medicines & Consumables                        5,500
+            Diagnostic Tests (CBC, LFT, USG Abdomen)       3,200
+            Nursing Charges                                2,000
+            Consultation Fee (Pre & Post Operative)        2,000
+            ──────────────────────────────────────────────────────
+            Sub-Total                                     67,700
+            Less: Discount                                -2,700
+            ──────────────────────────────────────────────────────
+            NET TOTAL PAYABLE                        Rs. 65,000
+            ══════════════════════════════════════════════════════
+
+            Payment Mode: To be settled via Insurance (Cashless)
+            TPA Ref: TPA/CL/2025/456789
+
+            The patient was hemodynamically stable at discharge.
+            Follow-up after 7 days with Dr. Vinay Kulkarni.
+
+            Authorized Signatory                Billing Department
+            City Care Hospital                  Ph: 080-2345-6789

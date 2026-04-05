@@ -1,0 +1,54 @@
+══════════════════════════════════════════════════════════
+                    NARAYANA HEALTH — HEALTH CITY CAMPUS
+                   #258/A, Bommasandra, Bengaluru - 560099
+                   NABH & JCI Accredited
+            ══════════════════════════════════════════════════════════
+
+            PATIENT DISCHARGE SUMMARY & FINAL BILL
+
+            Patient Name       : Mr. Ramachandran Pillai
+            UHID               : NH-2025-78901
+            Age / Gender       : 65 years / Male
+
+            Date of Admission  : 02-Jul-2025, 06:45 PM (Emergency)
+            Date of Discharge  : 08-Jul-2025, 11:30 AM
+            Duration of Stay   : 6 days (including 2 days in ICU)
+
+            Treating Doctor    : Dr. Suresh Hegde, DM (Cardiology)
+            Department         : Cardiology / Cardiac ICU
+
+            Diagnosis (ICD-10) : I21.0 — Acute ST-Elevation Myocardial
+                                 Infarction (STEMI), Anterior Wall
+            Procedure          : Primary Percutaneous Coronary
+                                 Intervention (PCI) with Drug Eluting
+                                 Stent (DES) to LAD artery
+
+            ─────────────  ITEMIZED BILL  ──────────────────────────
+
+            Description                              Amount (Rs.)
+            ──────────────────────────────────────────────────────
+            ICU / ICCU Charges (2 days × Rs.8,000)       16,000
+            Room Charges - Single AC
+              (4 days × Rs. 4,000/day)                   16,000
+            Cardiologist / Interventionist Fee           40,000
+            Drug Eluting Stent (DES) × 1                 35,000
+            Cath Lab / Procedure Charges                 30,000
+            Anaesthesia Charges                           8,000
+            Medicines (Antiplatelets, Statins,
+              Heparin, Nitrates, Beta-blockers)          12,000
+            Diagnostic Tests:
+              - 2D Echo                                   3,000
+              - Coronary Angiography                      8,000
+              - Troponin-I, CK-MB, BNP                    2,500
+              - CBC, KFT, LFT, Lipid Profile              2,000
+              - ECG (serial × 4)                            800
+            Nursing Charges (6 days)                       3,000
+            Cardiac Rehabilitation (1 session)             1,500
+            ──────────────────────────────────────────────────────
+            GROSS TOTAL                                1,77,800
+            ──────────────────────────────────────────────────────
+            NET TOTAL PAYABLE                       Rs. 1,77,800
+            ══════════════════════════════════════════════════════
+
+            Note: Patient is 65 years old. As per policy Section 8.1,
+            10% co-payment is applicable for ages 60-75.

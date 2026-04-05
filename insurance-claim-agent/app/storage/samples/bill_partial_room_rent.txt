@@ -1,0 +1,20 @@
+Supreme Hospital
+            Patient Name: Mr. Anil Kumar
+            Hospital Name: Supreme Hospital
+
+            Admission Date: 20-08-2025
+            Discharge Date: 25-08-2025
+
+            Diagnosis: Pneumonia (severe)
+            Procedure: Hospitalization with IV antibiotics
+
+            Bill Details:
+            Room Charges (5 days x Rs. 8,000/day):    Rs. 40,000
+            Room Rent per day: Rs. 8,000
+            Doctor Visits:                              Rs. 10,000
+            Medicines and IV:                           Rs. 15,000
+            Diagnostic Tests (X-Ray, Blood):            Rs. 7,000
+            Oxygen/Nebulization:                        Rs. 5,000
+
+            Total Amount: Rs. 77,000
+            Grand Total: Rs. 77,000

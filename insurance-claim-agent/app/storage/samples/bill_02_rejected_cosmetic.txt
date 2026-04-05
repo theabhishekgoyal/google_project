@@ -1,0 +1,41 @@
+══════════════════════════════════════════════════════════
+                     GLAMOUR AESTHETICS & COSMETIC SURGERY CENTRE
+                    #45, Brigade Road, Bengaluru, Karnataka - 560001
+                    Reg No: KA/BLR/2021/CS-0891
+            ══════════════════════════════════════════════════════════
+
+            FINAL HOSPITAL BILL
+
+            Patient Name       : Ms. Priya Mehta
+            Age / Gender       : 28 years / Female
+            UHID               : GAC-2025-10234
+
+            Date of Admission  : 10-Mar-2025, 08:00 AM
+            Date of Discharge  : 11-Mar-2025, 06:00 PM
+            Duration of Stay   : 1 day
+
+            Treating Doctor    : Dr. Kavitha Rao, MCh (Plastic Surgery)
+            Department         : Cosmetic & Plastic Surgery
+
+            Diagnosis          : Deviated Nasal Septum (cosmetic concern)
+            Procedure          : Cosmetic Rhinoplasty (Nose reshaping)
+
+            ─────────────  ITEMIZED BILL  ──────────────────────────
+
+            Description                              Amount (Rs.)
+            ──────────────────────────────────────────────────────
+            Room Charges - Suite (1 day × Rs.8,000)       8,000
+            Plastic Surgeon Fee                          55,000
+            Anaesthesia Charges                          15,000
+            Operation Theatre Charges                    20,000
+            Medicines & Consumables                       4,500
+            Nasal Splint & Dressing Material               1,500
+            Post-Operative Care                           2,000
+            ──────────────────────────────────────────────────────
+            Sub-Total                                   1,06,000
+            Less: Discount                               -12,000
+            ──────────────────────────────────────────────────────
+            NET TOTAL PAYABLE                        Rs. 94,000
+            ══════════════════════════════════════════════════════
+
+            NOTE: This is a cosmetic/elective procedure.

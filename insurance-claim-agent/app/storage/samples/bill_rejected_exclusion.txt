@@ -1,0 +1,19 @@
+Glamour Aesthetics Clinic
+            Patient Name: Ms. Priya Mehta
+            Hospital Name: Glamour Aesthetics Clinic
+
+            Admission Date: 10-03-2025
+            Discharge Date: 11-03-2025
+
+            Diagnosis: Nasal deviation (cosmetic concern)
+            Procedure: Cosmetic rhinoplasty
+
+            Bill Details:
+            Room Charges (1 day x Rs. 6,000/day):     Rs. 6,000
+            Surgeon Fee:                                Rs. 50,000
+            Anesthesia:                                 Rs. 15,000
+            Operation Theatre:                          Rs. 20,000
+            Medicines:                                  Rs. 3,000
+
+            Total Amount: Rs. 94,000
+            Grand Total: Rs. 94,000

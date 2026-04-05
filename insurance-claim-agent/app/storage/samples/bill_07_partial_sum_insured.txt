@@ -1,0 +1,69 @@
+══════════════════════════════════════════════════════════
+                        FORTIS HOSPITAL, BANNERGHATTA ROAD
+                    154/9, Bannerghatta Road, Bengaluru - 560076
+                    NABH Accredited
+            ══════════════════════════════════════════════════════════
+
+            FINAL HOSPITAL BILL / TAX INVOICE
+
+            Patient Name       : Mr. Deepak Joshi
+            UHID               : FH-2025-23456
+            Age / Gender       : 48 years / Male
+
+            Date of Admission  : 10-Oct-2025, 09:00 AM (Emergency)
+            Date of Discharge  : 30-Oct-2025, 03:00 PM
+            Duration of Stay   : 20 days (including 8 days in ICU)
+
+            Treating Doctor    : Dr. Pradeep Kumar, MCh (Neuro Surgery)
+                                 Dr. Anjali Sharma, DM (Neurology)
+            Department         : Neurosurgery / Neurology ICU
+
+            Diagnosis (ICD-10) : I61.0 — Intracerebral Hemorrhage,
+                                 left basal ganglia
+                                 G93.6 — Cerebral Edema
+            Procedure          : Emergency Craniotomy and Evacuation
+                                 of Intracerebral Hematoma,
+                                 Decompressive Craniectomy
+
+            ─────────────  ITEMIZED BILL  ──────────────────────────
+
+            Description                              Amount (Rs.)
+            ──────────────────────────────────────────────────────
+            ICU / Neuro ICU Charges
+              (8 days × Rs. 10,000/day)                  80,000
+            Room Charges - Single Deluxe
+              (12 days × Rs. 5,000/day)                  60,000
+            Neurosurgeon Fee                             80,000
+            Anaesthesia Charges (Craniotomy)              25,000
+            Operation Theatre Charges                    40,000
+            Cranial Implant (Titanium Mesh)              45,000
+            Ventilator Charges (5 days)                  50,000
+            Medicines & Drugs:
+              - IV Antibiotics                           15,000
+              - Mannitol, Anticonvulsants                 8,000
+              - Blood Products (FFP, Platelets)          12,000
+            Diagnostic Tests:
+              - CT Brain (× 4 scans)                     16,000
+              - MRI Brain with contrast                  10,000
+              - EEG Monitoring                            5,000
+              - CBC, KFT, LFT, ABG (serial)               6,000
+              - Coagulation Profile (serial)               3,000
+            Neurology Consultations (8 visits)           12,000
+            Physiotherapy (10 sessions)                   10,000
+            Tracheostomy Kit & Care                       8,000
+            Nursing Charges (20 days)                    10,000
+            Attendant / Dietician                         2,000
+            Ambulance (inter-facility transfer)           2,000
+            Administrative & Documentation                3,000
+            Toiletries & Guest Meals                      2,000
+            Telephone & TV Rental                         1,000
+            ──────────────────────────────────────────────────────
+            GROSS TOTAL                                6,30,000
+            Less: Non-medical items (Section 11)         -5,000
+            ──────────────────────────────────────────────────────
+            NET TOTAL PAYABLE                       Rs. 6,25,000
+            ══════════════════════════════════════════════════════
+
+            Note: Sum Insured = Rs. 5,00,000. Claim exceeds the
+            aggregate limit. Maximum payable under policy is
+            Rs. 5,00,000.

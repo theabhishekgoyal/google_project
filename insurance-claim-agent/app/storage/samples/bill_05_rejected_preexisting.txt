@@ -1,0 +1,58 @@
+══════════════════════════════════════════════════════════
+                        MANIPAL HOSPITAL (OLD AIRPORT ROAD)
+                    98, HAL Old Airport Road, Bengaluru - 560017
+                    NABH Accredited | Reg: KA/BLR/2015/MH-201
+            ══════════════════════════════════════════════════════════
+
+            FINAL HOSPITAL BILL / DISCHARGE SUMMARY
+
+            Patient Name       : Mr. Venkatesh Iyer
+            UHID               : MH-2025-34567
+            Age / Gender       : 58 years / Male
+
+            Date of Admission  : 05-Sep-2025, 11:00 AM
+            Date of Discharge  : 12-Sep-2025, 02:00 PM
+            Duration of Stay   : 7 days
+
+            Treating Doctor    : Dr. Shilpa Nair, MS (General Surgery)
+                                 Dr. Arvind Mehta, MD (Endocrinology)
+            Department         : General Surgery / Endocrinology
+
+            Diagnosis:
+              1. E11.621 — Type 2 Diabetes Mellitus with foot ulcer
+              2. L97.529 — Non-pressure chronic ulcer, left foot
+              3. I70.233 — Atherosclerosis, left leg with ulceration
+
+            Procedure:
+              Surgical debridement of diabetic foot ulcer (left foot)
+              with negative pressure wound therapy (VAC therapy)
+
+            Clinical History:
+            Known case of Type 2 Diabetes Mellitus for 12 years (since
+            2013), currently on Insulin Glargine 20U + Metformin 1000mg.
+            HbA1c on admission: 9.2%. This is a complication directly
+            arising from the patient's pre-existing diabetes.
+
+            ─────────────  ITEMIZED BILL  ──────────────────────────
+
+            Description                              Amount (Rs.)
+            ──────────────────────────────────────────────────────
+            Room Charges - Single AC
+              (7 days × Rs. 4,500/day)                   31,500
+            Surgeon Fee (Debridement × 2 sittings)       20,000
+            Dressing Material & VAC Therapy Kit           18,000
+            Medicines (Antibiotics IV, Insulin, etc.)    12,500
+            Endocrinology Consultation (3 visits)         4,500
+            Diagnostic Tests
+              - HbA1c, FBS, PPBS, Lipid Profile           2,200
+              - Color Doppler Lower Limb                   3,500
+              - Wound Culture & Sensitivity                1,800
+              - CBC, KFT, LFT                              1,500
+            Nursing Charges (7 days)                       3,500
+            Physiotherapy                                  2,000
+            ──────────────────────────────────────────────────────
+            NET TOTAL PAYABLE                       Rs. 1,01,000
+            ══════════════════════════════════════════════════════
+
+            Pre-existing condition: Diabetes since 2013 (12 years).
+            Policy inception: Jan 2024 (< 4 years cover for PED).

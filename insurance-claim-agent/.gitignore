@@ -1,0 +1,33 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Storage (runtime data)
+app/storage/uploads/
+app/storage/outputs/*.json
+app/storage/logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Misc
+bills_and_policy_pdf/

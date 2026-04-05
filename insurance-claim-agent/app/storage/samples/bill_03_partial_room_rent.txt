@@ -1,0 +1,52 @@
+══════════════════════════════════════════════════════════
+                     SUPREME HOSPITAL & RESEARCH CENTRE
+               #67, Outer Ring Road, Marathahalli, Bengaluru - 560037
+               NABH Accredited | ISO 9001:2015 | Reg: KA/BLR/2018/SH-112
+            ══════════════════════════════════════════════════════════
+
+            FINAL HOSPITAL BILL / TAX INVOICE
+
+            Patient Name       : Mr. Anil Kumar
+            UHID               : SUP-2025-55678
+            Age / Gender       : 42 years / Male
+
+            Date of Admission  : 20-Aug-2025, 02:15 PM (Emergency)
+            Date of Discharge  : 25-Aug-2025, 10:30 AM
+            Duration of Stay   : 5 days
+
+            Treating Doctor    : Dr. Ravi Deshmukh, MD (Pulmonology)
+            Department         : Pulmonary Medicine
+
+            Diagnosis (ICD-10) : J18.9 — Pneumonia, unspecified organism
+                                 (Severe Community Acquired Pneumonia)
+            Procedure          : Hospitalization with IV Antibiotics,
+                                 Oxygen therapy, Chest Physiotherapy
+
+            ─────────────  ITEMIZED BILL  ──────────────────────────
+
+            Description                              Amount (Rs.)
+            ──────────────────────────────────────────────────────
+            Room Charges - Premium Suite
+              (5 days × Rs. 8,000/day)                   40,000
+            Consulting Physician Visits (5 visits)       10,000
+            Medicines & IV Antibiotics                   15,500
+            Diagnostic Tests:
+              - Chest X-Ray (PA view)                     1,200
+              - CBC, ESR, CRP                               900
+              - Blood Culture & Sensitivity                1,500
+              - Sputum Culture                               800
+              - ABG (Arterial Blood Gas)                   1,200
+              - HRCT Chest                                 3,500
+            Oxygen / Nebulization Charges                  5,200
+            Nursing Charges                                2,000
+            Physiotherapy (Chest)                           1,200
+            ──────────────────────────────────────────────────────
+            GROSS TOTAL                                  83,000
+            Less: Adjustment                              -6,000
+            ──────────────────────────────────────────────────────
+            NET TOTAL PAYABLE                        Rs. 77,000
+            ══════════════════════════════════════════════════════
+
+            Room Rent per day: Rs. 8,000
+            Policy Room Rent Limit: Rs. 5,000/day
+            Excess room rent requires policyholder settlement.

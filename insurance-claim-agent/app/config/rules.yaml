@@ -1,0 +1,132 @@
+rules:
+  - rule_id: WAITING_PERIOD
+    name: Waiting Period Check
+    description: Reject if claim is filed within the initial waiting period.
+    query_terms: "waiting period initial days"
+    inputs_required:
+      - policy_start_date
+      - claim_date
+    default_waiting_days: 30
+    failure_message: "Claim filed within the waiting period of {days} days from policy start."
+    success_message: "Waiting period requirement satisfied."
+
+  - rule_id: ROOM_RENT_CAP
+    name: Room Rent Cap Check
+    description: Check if daily room rent exceeds the policy-allowed limit.
+    query_terms: "room rent limit per day cap"
+    inputs_required:
+      - room_rent_per_day
+      - sum_insured
+    default_cap_percent: 1.0
+    failure_message: "Claimed room rent of {claimed}/day exceeds the allowed cap of {allowed}/day."
+    success_message: "Room rent is within the allowed policy limit."
+
+  - rule_id: EXCLUDED_PROCEDURE
+    name: Excluded Procedure Check
+    description: Reject if the claimed procedure is in the policy exclusion list.
+    query_terms: "exclusion excluded procedures treatments not covered"
+    inputs_required:
+      - procedure_keywords
+    excluded_keywords:
+      - cosmetic
+      - dental
+      - fertility
+      - weight loss
+      - ayurvedic
+      - experimental
+    failure_message: "Procedure '{procedure}' falls under the policy exclusion list."
+    success_message: "Procedure is not in the exclusion list."
+
+  - rule_id: PRE_EXISTING_DISEASE
+    name: Pre-Existing Disease Check
+    description: Reject if the condition is flagged as pre-existing within the exclusion window.
+    query_terms: "pre-existing disease condition exclusion period"
+    inputs_required:
+      - diagnosis_keywords
+      - policy_start_date
+      - claim_date
+    pre_existing_keywords:
+      - diabetes
+      - hypertension
+      - asthma
+      - thyroid
+      - heart disease
+      - kidney disease
+    exclusion_years: 4
+    failure_message: "Diagnosis '{condition}' is flagged as a pre-existing condition within the {years}-year exclusion window."
+    success_message: "No pre-existing disease exclusion applies."
+
+  - rule_id: CO_PAY
+    name: Co-Pay Applicability Check
+    description: Apply co-payment percentage if the policy requires it.
+    query_terms: "co-pay co-payment percentage deductible"
+    inputs_required:
+      - total_claimed
+    default_copay_percent: 0
+    failure_message: "A co-pay of {percent}% applies. Deducted amount: {deducted}."
+    success_message: "No co-pay applicable."
+
+  - rule_id: SUM_INSURED_LIMIT
+    name: Sum Insured Limit Check
+    description: Reject or cap claim if it exceeds the remaining sum insured.
+    query_terms: "sum insured maximum coverage limit aggregate"
+    inputs_required:
+      - total_claimed
+      - sum_insured
+    failure_message: "Claimed amount of {claimed} exceeds remaining sum insured of {available}."
+    success_message: "Claimed amount is within the sum insured limit."
+
+  - rule_id: MIN_HOSPITALIZATION
+    name: Minimum Hospitalization Duration Check
+    description: Most policies require minimum 24 hours of hospitalization.
+    query_terms: "minimum hospitalization 24 hours inpatient duration"
+    inputs_required:
+      - admission_date
+      - discharge_date
+    min_hours: 24
+    failure_message: "Hospitalization was less than {min_hours} hours. Most policies require a minimum 24-hour stay."
+    success_message: "Hospitalization duration meets the minimum requirement."
+
+  - rule_id: NON_MEDICAL_ITEMS
+    name: Non-Medical Items Exclusion
+    description: Check if the bill includes non-medical personal comfort items.
+    query_terms: "non medical items personal comfort excluded toiletries"
+    inputs_required:
+      - line_items
+    non_medical_keywords:
+      - toiletries
+      - personal comfort
+      - telephone
+      - tv
+      - mineral water
+      - food packet
+      - guest meal
+      - registration
+      - service charge
+      - gown
+      - slippers
+    failure_message: "Bill includes non-medical items ({items}) which are typically excluded."
+    success_message: "No non-medical items detected in the bill."
+
+  - rule_id: DAYCARE_PROCEDURE
+    name: Daycare Procedure Check
+    description: Verify if a daycare procedure (no overnight stay) is covered.
+    query_terms: "daycare day care procedure listed covered treatment without hospitalization"
+    inputs_required:
+      - admission_date
+      - discharge_date
+      - procedure_keywords
+    failure_message: "Procedure '{procedure}' was done as daycare but is not in the policy's daycare list."
+    success_message: "Daycare procedure check passed."
+
+  - rule_id: CLAIM_DOCUMENTATION
+    name: Claim Documentation Completeness
+    description: Check if essential bill information could be extracted for processing.
+    query_terms: "claim form documentation required discharge summary bill"
+    inputs_required:
+      - patient_name
+      - hospital_name
+      - total_amount
+      - admission_date
+    failure_message: "Missing essential claim information: {missing_fields}. Claim cannot be fully evaluated."
+    success_message: "All essential claim information is present."
