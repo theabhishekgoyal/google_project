@@ -14,9 +14,9 @@ from app.schemas import BillFacts, BillLineItem
 
 logger = logging.getLogger(__name__)
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyBzzmA2lAwuKO9Y6HdXa-v9DUrxUszjBA8")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
-_MODELS = ["gemini-2.5-flash", "gemini-2.0-flash-lite", "gemini-2.0-flash"]
+_MODELS = ["gemini-2.5-flash"]
 
 _GEMINI_AVAILABLE = False
 _client = None

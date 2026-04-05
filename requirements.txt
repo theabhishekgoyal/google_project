@@ -1,14 +1,10 @@
-fastapi
-uvicorn[standard]
 pydantic
 pymupdf
 pytesseract
 pillow
 scikit-learn
 numpy
-python-multipart
 streamlit
 pyyaml
-easyocr
 google-genai
 python-dotenv
